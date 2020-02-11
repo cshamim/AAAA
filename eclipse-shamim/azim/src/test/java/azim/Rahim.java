@@ -13,6 +13,8 @@ public class Rahim implements Father {
 		// TODO Auto-generated method stub
 		
 		System.out.println("father name is"+name+ "and age is"+ age);
+		System.out.println("father name is"+name+ "and he  is"+ age);
+		
 		
 	}
 
